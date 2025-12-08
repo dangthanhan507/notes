@@ -2,6 +2,7 @@
 layout: default
 title: IsaacGymEnvs Setup
 parent: Isaac
+nav_order: 11
 ---
 
 ```bash
